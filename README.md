@@ -13,3 +13,7 @@ PM: Ruben Cedric Romero
 
 
 This is for the pull request.
+
+Abstract: 
+
+Extreme water conservation is in effect in the village of Cuba, New Mexico. Prolonged drought and dwindling surface water supplies continue to plague the village community as the effects of climate change continue to accelerate. The acceleration of its effect has led the village to make drastic measurements and find new solutions to meet water consumption. Fracking and tapping into the Rio Puerco aquifer and the evaluation of the ecological effects of drilling deep to access brackish water is existential as it will decide the water future of the village of Cuba, New Mexico. 
