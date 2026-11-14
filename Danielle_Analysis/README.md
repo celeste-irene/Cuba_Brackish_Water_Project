@@ -4,7 +4,7 @@ This folder contains my Groundwater Quality Assessment for Team 6's Cuba, New Me
 The analysis uses groundwater data from Alamogordo, New Mexico, to examine uranium concentrations across four 
 groundwater well groups and compare them with the EPA drinking water limit of 0.030 mg/L.
 
-##Files
+## Files
 
 Uranium_Analysis.m – MATLAB code used to analyze and graph uranium concentrations.
 BGNDRF-Well-Water-Data-Up-To-12-17-2019_1.xlsx – Original groundwater dataset.
