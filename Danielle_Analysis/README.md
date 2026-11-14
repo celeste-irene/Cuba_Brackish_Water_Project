@@ -1,8 +1,6 @@
 # Groundwater Quality Assessment
 **Danielle Glikman**
 
-This folder contains my groundwater quality assessment for Team 6's Cuba, New Mexico, water scarcity project.
-
 The analysis uses groundwater data from Alamogordo, New Mexico, to examine uranium and arsenic concentrations across four groundwater well groups and compare them with EPA drinking water limits.
 
 ## Uranium Analysis
