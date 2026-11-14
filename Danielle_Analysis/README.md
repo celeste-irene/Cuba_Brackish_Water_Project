@@ -6,9 +6,9 @@ groundwater well groups and compare them with the EPA drinking water limit of 0.
 
 ## Files
 
-Uranium_Analysis.m – MATLAB code used to analyze and graph uranium concentrations.
-BGNDRF-Well-Water-Data-Up-To-12-17-2019_1.xlsx – Original groundwater dataset.
-Uranium_Groundwater_Graph1111.png – Graph showing uranium concentrations.
-Uranium_Results.txt – Statistical results, including average, minimum, and maximum uranium concentrations.
+- **Uranium_Analysis.m** – MATLAB code used to analyze and graph uranium concentrations.
+- **BGNDRF-Well-Water-Data-Up-To-12-17-2019_1.xlsx** – Original groundwater dataset.
+- **Uranium_Groundwater_Graph1111.png** – Graph showing uranium concentrations.
+- **Uranium_Results.txt** – Statistical results, including average, minimum, and maximum uranium concentrations.
 
 These results help illustrate how groundwater quality can vary between wells and why evaluating contamination is important when considering groundwater extraction and treatment in Cuba, New Mexico.
