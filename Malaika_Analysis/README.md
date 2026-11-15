@@ -21,7 +21,7 @@ The results show that TDS concentrations vary between locations, with some sampl
 
 ## Files
 
-###TDS Analysis
+## TDS Analysis
 - **TDS_Analysis.m** – MATLAB code used to analyze and graph TDS concentrations.
 - **TDS_Groundwater_Graph.png** – Graph showing groundwater TDS concentrations.
 - **TDS_Results.txt** – Results from the TDS analysis.
