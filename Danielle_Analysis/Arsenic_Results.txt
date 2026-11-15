@@ -1,0 +1,29 @@
+ARSENIC CONCENTRATION RESULTS
+
+Well 1:
+Number of measurements: 4
+Average arsenic: 0.00084 mg/L
+Minimum arsenic: 0.00059 mg/L
+Maximum arsenic: 0.00140 mg/L
+All plotted measurements at or below EPA benchmark.
+
+Well 2:
+Number of measurements: 4
+Average arsenic: 0.00093 mg/L
+Minimum arsenic: 0.00074 mg/L
+Maximum arsenic: 0.00130 mg/L
+All plotted measurements at or below EPA benchmark.
+
+Well 3:
+Number of measurements: 4
+Average arsenic: 0.00076 mg/L
+Minimum arsenic: 0.00064 mg/L
+Maximum arsenic: 0.00100 mg/L
+All plotted measurements at or below EPA benchmark.
+
+Well 4:
+Number of measurements: 3
+Average arsenic: 0.00057 mg/L
+Minimum arsenic: 0.00042 mg/L
+Maximum arsenic: 0.00072 mg/L
+All plotted measurements at or below EPA benchmark.
