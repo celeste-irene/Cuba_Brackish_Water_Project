@@ -1,0 +1,11 @@
+sourceID,unique_site_ID,samp_id,state_alpha,county_nm,dec_lat_va,dec_long_va,DistanceFromCuba_miles,samp_start_dt,well_depth_ft,BGW_region_name,principal_aq,TDS_mgL,TDS_mgL_flag,TDS_mgL_quality,As_ugL,As_ugL_flag,U_ugL,U_ugL_flag,Ca_mgL,Mg_mgL,Na_mgL,Cl_mgL,SO4_mgL,SC_uScm,ph
+NM_GEOTH,NM_GEOTH-SA20,SA20-3,NM,Sandoval,35.6455556,-106.8883333,26.3,1988-08-01 00:00:00,2010,Western Mid-Continent,Principal aquifer not present or not determined in Western Mid-Continent,11339,,1,,,,,291.5,50.3,3006,2919.8,3283,,7.31
+NURE,NURE-LAN02195,,NM,Sandoval,36.0631,-106.9817,3.13,1976-07-27 00:00:00,180,Western Mid-Continent,Colorado Plateaus aquifers,437.5626,,3,,,4.24,ppb,77.3,19.3,107.7,,,710,7
+NURE,NURE-LAN02997,,NM,Rio Arriba,36.4214,-107.1567,29.74,1976-09-21 00:00:00,350,Western Mid-Continent,Colorado Plateaus aquifers,1119.5419,,3,,,0.16,ppb,8.4,0.5,737.6,,,1700,8.4
+NURE,NURE-LAN03002,,NM,Rio Arriba,36.3897,-107.0358,25.77,1976-09-21 00:00:00,154,Western Mid-Continent,Colorado Plateaus aquifers,430.6739,,3,,,0.1,ppb,24.2,6.2,282,,,700,8.2
+NURE,NURE-LAN03036,,NM,Rio Arriba,36.3053,-107.0436,20.15,1976-09-22 00:00:00,780,Western Mid-Continent,Colorado Plateaus aquifers,430.6739,,3,,,0.38,ppb,2.2,0.4,251.5,,,700,9.6
+NURE,NURE-LAN03051,,NM,Rio Arriba,36.3147,-107.1381,22.58,1976-09-23 00:00:00,40,Western Mid-Continent,Colorado Plateaus aquifers,2910.5987,,3,,,7.28,ppb,469.9,124.1,899.4,,,4300,7
+NURE,NURE-LAN03631,,NM,Sandoval,36.0708,-107.0528,6.28,1976-09-26 00:00:00,700,Western Mid-Continent,Colorado Plateaus aquifers,465.1173,,3,,,0.64,ppb,181.7,21.3,91.8,,,750,6.8
+QWSRV,USGS-354915107191901,nwisnm.01.96701717,NM,McKinley,35.820137,-107.3224182,24.7,1967-02-21 00:00:00,502,Western Mid-Continent,Colorado Plateaus aquifers,1720,,1,,,,,4,0.6,600,22,760,2570,8.7
+QWSRV,USGS-355532107285701,nwisnm.01.96401611,NM,McKinley,35.9254723,-107.4669724,29.23,1963-11-01 00:00:00,1470,Western Mid-Continent,Colorado Plateaus aquifers,2500,,1,,,400,,4.8,0.1,1000,29,460,3690,8.6
+QWSRV,USGS-355532107285702,nwisnm.01.97603262,NM,McKinley,35.925251,-107.4668579,29.23,1975-12-27 00:00:00,180,Western Mid-Continent,Principal aquifer not present or not determined in Western Mid-Continent,1680,,1,1,,0.05,,2.1,0.7,670,89,490,2610,8.6
