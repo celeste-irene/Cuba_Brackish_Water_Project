@@ -77,7 +77,22 @@ with tab5:
     st.write(" Each dot in this scatter plot represents a well in the Albuquerque metro area (Rio Grande Aquifer Region). In each year, each predevelopment blue dot corresponds with an orange post-development dot, comparing water level well depth between predevelopment and post-development per year.")
 
 with tab6: 
+ st.header("Economic Feasibility")
+    st.write(" This analysis looks at the coming zero-waster desalination facility in Cuba, New Mexico. With government funding, it is easy to look at the funding, construction costs, and expected revenue to fully grasp the economic practicallity.")
+    st.write("This proposed facility is projected to generate 518,00 gallons ot potable water per day, while harvesting important minerals from brackish water.")
 
+    st.subheader("Economic Feasibility Graph")
+    st.image("Alara_Analysis/Economic_Feasibility_graph.png")
+
+    st.write("This python graph analysis is displays the $11.7 million offered in government funding, $10 million estimated construction cost, and $13 million dollars of projected revenue.")
+    st.write("This only shows the potential this facility has, and how it will benefit Cuba long term, considering they do not have the means to do it without government funding. Being able to simultaneously sell the high-grade fertilizer and provide residents with clean drinking water.")
+
+    st.subheader("Economic and Environmental Benefits")
+
+    st.image("Alara_Analysis/Economic_Environmental.png")
+
+    st.write("The proposed desalination facility could provide both economic and environmental benefits to Cuba, New Mexico. Economically, the facility could create local jobs and generate revenue through fertilizer and surplus water sales.")
+    
     
 
 
