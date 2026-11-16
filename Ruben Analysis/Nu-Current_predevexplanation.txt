@@ -1,0 +1,2 @@
+1. Each dot in this scatter plot represents a well in the Albuquerque metro area (Rio Grande Aquifer Region). In each year, each predevelopment blue dot corresponds with an orange post-development dot, comparing water level well depth between predevelopment and post-development per year.
+2. While each blue dot has an orange dot, they all represent different well data.
