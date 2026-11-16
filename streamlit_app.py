@@ -77,7 +77,7 @@ with tab5:
     st.write(" Each dot in this scatter plot represents a well in the Albuquerque metro area (Rio Grande Aquifer Region). In each year, each predevelopment blue dot corresponds with an orange post-development dot, comparing water level well depth between predevelopment and post-development per year.")
 
 with tab6: 
- st.header("Economic Feasibility")
+    st.header("Economic Feasibility")
     st.write(" This analysis looks at the coming zero-waster desalination facility in Cuba, New Mexico. With government funding, it is easy to look at the funding, construction costs, and expected revenue to fully grasp the economic practicallity.")
     st.write("This proposed facility is projected to generate 518,00 gallons ot potable water per day, while harvesting important minerals from brackish water.")
 
