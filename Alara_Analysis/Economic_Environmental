@@ -1,0 +1,30 @@
+
+st.header("Economic and Environmental Benefits")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.subheader("Economic Benefits")
+    st.markdown("""
+    - Potential creation of local jobs
+    - Revenue from fertilizer sales
+    - Revenue from surplus water sales
+    - Local economic growth
+    """)
+
+with col2:
+    st.subheader("Environmental Benefits")
+    st.markdown("""
+    - Reduced desalination waste
+    - Recovery of valuable minerals
+    - Increased drinking water availability
+    - Improved long-term water security
+    """)
+
+st.write("""
+The proposed desalination facility could provide both
+economic and environmental benefits to Cuba, New Mexico.
+The zero-waste process could generate revenue while
+providing residents with an alternative source of
+clean drinking water.
+""")
