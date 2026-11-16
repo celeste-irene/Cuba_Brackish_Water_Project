@@ -79,6 +79,7 @@ with tab5:
 with tab6: 
     st.header("Title")
     st.write(" description.")
+    st.image("Alara_Analysis/Economic_Feasibility_Graph.png")
 
 
     
