@@ -77,7 +77,7 @@ with tab5:
     st.write(" Each dot in this scatter plot represents a well in the Albuquerque metro area (Rio Grande Aquifer Region). In each year, each predevelopment blue dot corresponds with an orange post-development dot, comparing water level well depth between predevelopment and post-development per year.")
 
 with tab6: 
-    st.header("Title")
+    st.header("Economic Feasibility and Funding Analysis")
     st.write(" description.")
     st.image("Alara_Analysis/Economic_Feasibility_Graph.png")
 
