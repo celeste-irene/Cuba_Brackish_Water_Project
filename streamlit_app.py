@@ -24,29 +24,46 @@ with tab3:
     st.write("This analysis looks at groundwater quality and contamination risks in New Mexico. I used groundwater data from Alamogordo to compare uranium and arsenic concentrations across four well groups. I also used aquifer sensitivity data from the New Mexico Environment Department to look at how vulnerable different areas are to groundwater contamination.")
     st.subheader("First Visual")
     st.image("Danielle_Analysis/Aquifer_Sensitivity_Graph.png")
-    st.write("Add your description here.")
+    st.write("This analysis uses data from the New Mexico Environment Department to compare areas based on their sensitivity to groundwater contamination.")
+    st.write("Out of 613 mapped areas:")
+    st.markdown("""
+    - 122 were classified as less sensitive.
+    - 339 were classified as moderately sensitive.
+    - 152 were classified as highly sensitive.
+    """)
 
+    st.write("Moderate sensitivity was the most common classification. Areas with higher sensitivity may be more vulnerable to groundwater contamination due to factors such as groundwater depth and local geology. ")
+    
+    
     st.subheader("Second Visual")
     st.image("Danielle_Analysis/Arsenic_Groundwater_Graph12.png")
-    st.write("Add your description here.")
+    st.write("The graph shows how arsenic concentrations vary between groundwater well groups and why testing for different contaminants is important when evaluating groundwater quality.")
+
+    st.subheader("Third Visual")
+    st.image("Danielle_Analysis/Uranium_Groundwater_Graph1111.png")
+    st.write("The uranium analysis compares groundwater concentrations with the EPA drinking water limit of 0.030 mg/L.")
+    st.write("All four well groups had uranium concentrations below the EPA limit, although the concentrations varied between groups.")
     
 with tab4:
     st.write("This analysis looks at Total Dissolved Solids (TDS) in groundwater. TDS measures the amount of dissolved substances in water, including salts and minerals, and helps us understand groundwater salinity.")
+    st.write("The MATLAB analysis graphs groundwater TDS concentrations to show how salinity varies across samples.")
+    st.write("Higher TDS concentrations indicate more dissolved substances in the water, which may affect how much treatment is needed before the water can be used. Higher TDS concentrations indicate more dissolved substances in the water, which may affect how much treatment is needed before the water can be used.")
     st.header("First Visual") 
     st.image("Malaika_Analysis/TDS_Groundwater_Graph.png")
-    st.write("chart description.")
+    st.write("The MATLAB analysis graphs groundwater TDS concentrations to show how salinity varies across samples.")
 
     st.header("Second Visual")
     st.image("Malaika_Analysis/Cuba_TDS_Groundwater_Graph.png")
-    st.write("chart description.")
+    st.write("A second analysis was done using historical groundwater data from the USGS within 30 miles of Cuba, New Mexico. The data was filtered to remove oil and gas produced-water records, leaving 10 groundwater samples.")
     
 with tab5:
     st.header("1st Visual") 
-    st.write("chart description")
+    at.image("Ruben Analysis/current_predev.scatter.png")
+    st.write(" Each dot in this scatter plot represents a well in the Albuquerque metro area (Rio Grande Aquifer Region). In each year, each predevelopment blue dot corresponds with an orange post-development dot, comparing water level well depth between predevelopment and post-development per year.")
 
 with tab6: 
-    st.header("1st Visual")
-    st.write("chart description.")
+    st.header("Title")
+    st.write(" description.")
 
 
     
