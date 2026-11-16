@@ -16,6 +16,7 @@ with tab1:
     - Danielle Glikman
     - Malaika Williams
     - Alara Hart
+    """)
     
 with tab2: 
     st.write("This Analysis covers how much water and the flow rate can be provided to Cuba, New Mexico over the last several years. This is important and relative to Cuba for looking at their water supply holistically. This gauges how much water they can fully receive and how it relates to the brackish water problem. ")
