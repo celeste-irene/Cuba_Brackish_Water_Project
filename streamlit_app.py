@@ -80,6 +80,7 @@ with tab6:
     st.header("Economic Feasibility and Funding Analysis")
     st.write(" description.")
     st.image("Alara_Analysis/Economic_Feasibility_Graph.png")
+    
 
 
     
