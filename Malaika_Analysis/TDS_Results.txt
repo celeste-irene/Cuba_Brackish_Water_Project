@@ -1,0 +1,179 @@
+TOTAL DISSOLVED SOLIDS RESULTS
+
+Well 1:
+Number of measurements: 7
+Average TDS: 1462.86 mg/L
+Minimum TDS: 1040.00 mg/L
+Maximum TDS: 2650.00 mg/L
+
+Well 2:
+Number of measurements: 7
+Average TDS: 5527.14 mg/L
+Minimum TDS: 5240.00 mg/L
+Maximum TDS: 5900.00 mg/L
+
+Well 3:
+Number of measurements: 7
+Average TDS: 3952.86 mg/L
+Minimum TDS: 3510.00 mg/L
+Maximum TDS: 4380.00 mg/L
+
+Well 4:
+Number of measurements: 7
+Average TDS: 4110.00 mg/L
+Minimum TDS: 3970.00 mg/L
+Maximum TDS: 4380.00 mg/L
+
+TDS CONCENTRATION RESULTS
+------------------------------------
+Groundwater samples within 30 miles of Cuba, NM
+Produced-water records excluded.
+
+Number of samples: 10
+Average TDS: 2303.32 mg/L
+Minimum TDS: 430.67 mg/L
+Maximum TDS: 11339.00 mg/L
+
+GROUNDWATER CLASSIFICATION
+Below 1000 mg/L: 4 samples
+Brackish (1000-10000 mg/L): 5 samples
+Above 10000 mg/L: 1 samples
+
+INDIVIDUAL SAMPLE RESULTS
+
+Sample 1:
+Well ID: NURE-LAN02195
+Distance from Cuba: 3.13 miles
+TDS concentration: 437.56 mg/L
+Classification: Below brackish range
+
+Sample 2:
+Well ID: NURE-LAN03631
+Distance from Cuba: 6.28 miles
+TDS concentration: 465.12 mg/L
+Classification: Below brackish range
+
+Sample 3:
+Well ID: NURE-LAN03036
+Distance from Cuba: 20.15 miles
+TDS concentration: 430.67 mg/L
+Classification: Below brackish range
+
+Sample 4:
+Well ID: NURE-LAN03051
+Distance from Cuba: 22.58 miles
+TDS concentration: 2910.60 mg/L
+Classification: Brackish groundwater
+
+Sample 5:
+Well ID: USGS-354915107191901
+Distance from Cuba: 24.70 miles
+TDS concentration: 1720.00 mg/L
+Classification: Brackish groundwater
+
+Sample 6:
+Well ID: NURE-LAN03002
+Distance from Cuba: 25.77 miles
+TDS concentration: 430.67 mg/L
+Classification: Below brackish range
+
+Sample 7:
+Well ID: NM_GEOTH-SA20
+Distance from Cuba: 26.30 miles
+TDS concentration: 11339.00 mg/L
+Classification: Above brackish range
+
+Sample 8:
+Well ID: USGS-355532107285701
+Distance from Cuba: 29.23 miles
+TDS concentration: 2500.00 mg/L
+Classification: Brackish groundwater
+
+Sample 9:
+Well ID: USGS-355532107285702
+Distance from Cuba: 29.23 miles
+TDS concentration: 1680.00 mg/L
+Classification: Brackish groundwater
+
+Sample 10:
+Well ID: NURE-LAN02997
+Distance from Cuba: 29.74 miles
+TDS concentration: 1119.54 mg/L
+Classification: Brackish groundwater
+
+TDS CONCENTRATION RESULTS
+------------------------------------
+Groundwater samples within 30 miles of Cuba, NM
+Produced-water records excluded.
+
+Number of samples: 10
+Average TDS: 2303.32 mg/L
+Minimum TDS: 430.67 mg/L
+Maximum TDS: 11339.00 mg/L
+
+GROUNDWATER CLASSIFICATION
+Below 1000 mg/L: 4 samples
+Brackish (1000-10000 mg/L): 5 samples
+Above 10000 mg/L: 1 samples
+
+INDIVIDUAL SAMPLE RESULTS
+
+Sample 1:
+Well ID: NURE-LAN02195
+Distance from Cuba: 3.13 miles
+TDS concentration: 437.56 mg/L
+Classification: Below brackish range
+
+Sample 2:
+Well ID: NURE-LAN03631
+Distance from Cuba: 6.28 miles
+TDS concentration: 465.12 mg/L
+Classification: Below brackish range
+
+Sample 3:
+Well ID: NURE-LAN03036
+Distance from Cuba: 20.15 miles
+TDS concentration: 430.67 mg/L
+Classification: Below brackish range
+
+Sample 4:
+Well ID: NURE-LAN03051
+Distance from Cuba: 22.58 miles
+TDS concentration: 2910.60 mg/L
+Classification: Brackish groundwater
+
+Sample 5:
+Well ID: USGS-354915107191901
+Distance from Cuba: 24.70 miles
+TDS concentration: 1720.00 mg/L
+Classification: Brackish groundwater
+
+Sample 6:
+Well ID: NURE-LAN03002
+Distance from Cuba: 25.77 miles
+TDS concentration: 430.67 mg/L
+Classification: Below brackish range
+
+Sample 7:
+Well ID: NM_GEOTH-SA20
+Distance from Cuba: 26.30 miles
+TDS concentration: 11339.00 mg/L
+Classification: Above brackish range
+
+Sample 8:
+Well ID: USGS-355532107285701
+Distance from Cuba: 29.23 miles
+TDS concentration: 2500.00 mg/L
+Classification: Brackish groundwater
+
+Sample 9:
+Well ID: USGS-355532107285702
+Distance from Cuba: 29.23 miles
+TDS concentration: 1680.00 mg/L
+Classification: Brackish groundwater
+
+Sample 10:
+Well ID: NURE-LAN02997
+Distance from Cuba: 29.74 miles
+TDS concentration: 1119.54 mg/L
+Classification: Brackish groundwater
