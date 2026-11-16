@@ -58,7 +58,7 @@ with tab4:
     
 with tab5:
     st.header("1st Visual") 
-    at.image("Ruben Analysis/current_predev.scatter.png")
+    st.image("Ruben Analysis/current_predev.scatter.png")
     st.write(" Each dot in this scatter plot represents a well in the Albuquerque metro area (Rio Grande Aquifer Region). In each year, each predevelopment blue dot corresponds with an orange post-development dot, comparing water level well depth between predevelopment and post-development per year.")
 
 with tab6: 
