@@ -51,7 +51,7 @@ with tab3:
     
     st.subheader("Arsenic Groundwater")
     st.image("Danielle_Analysis/Arsenic_Groundwater_Graph12.png")
-     st.write("The arsenic analysis compares groundwater concentrations with the EPA drinking water limit of 0.010 mg/L.")
+    st.write("The arsenic analysis compares groundwater concentrations with the EPA drinking water limit of 0.010 mg/L.")
     st.write("The graph shows how arsenic concentrations vary between groundwater well groups and why testing for different contaminants is important when evaluating groundwater quality.")
 
     st.subheader("Uranium Groundwater")
