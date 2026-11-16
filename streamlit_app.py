@@ -9,9 +9,16 @@ with tab1:
     st.header("Cuba, New Mexico is in a state of emergency due to dwindling water supplies. Fracking and tapping into the village aquifer and the evaluation of the ecological effects of drilling into brackish water is existential as it will decide the water future of the village of Cuba, New Mexico.")
     st.subheader("Abstract Overview")
     st.write("Extreme water conservation is in effect in the village of Cuba, New Mexico. Prolonged drought and dwindling surface water supplies continue to plague the village community as the effects of climate change continue to accelerate. The acceleration of its effect has led the village to make drastic measurements and find new solutions to meet water consumption. Fracking into the aquifer beneath the village and the evaluation of the ecological effects of drilling deep to access brackish water is existential for the village of Cuba. It is expected that the increase of water supply will further increase consumption via induced demand. The research is split into five parts to understand the specifics of feasibility and consequence: one, economic feasibility, as the treatment of water can stimulate growth; two, pollution, if treatment and fracking will further deplete the water systems of the area; three, the effect of pumping itself; four, conduct a comparison and collect general data of similar aquifers and reservoirs across the state; five, to understand the salinity of brackish water. It is hoped that the cross-examination of datasets and analysis can answer if tapping into the village aquifer is truly the answer to water scarcity in Cuba, New Mexico.")
-
+    st.write("Group Members:")
+    st.markdown("""
+    - Celeste Bivens
+    - Ruben Cedric Romero (Prime Minister)
+    - Danielle Glikman
+    - Malaika Williams
+    - Alara Hart
+    
 with tab2: 
-    st.write("This Analysis covers how much water and the flow rate can be provided to Cuba, New Mexico over the last several years. This is important and relative to Cuba for looking at their water supply holistically.")
+    st.write("This Analysis covers how much water and the flow rate can be provided to Cuba, New Mexico over the last several years. This is important and relative to Cuba for looking at their water supply holistically. This gauges how much water they can fully receive and how it relates to the brackish water problem. ")
     st.subheader("First Visual")
     st.image("Celeste's data/discharge_vs_time.png")
     st.write("How much water leaves the aquifer from Cuba New Mexico over the years")
@@ -19,6 +26,9 @@ with tab2:
     st.subheader("Second Visual")
     st.image("Celeste's data/velocity_vs_discharge.png")
     st.write("The rate of which water leaves the aquifer.")
+
+    st.subheader("Graph Analysis:")
+    st.write("There are external factors such as drought which disrupts the flow of water being supplied to a community. This can alter the balancw and cause more chemicals/saltwater to flow into fresher zones")
 
 with tab3: 
     st.write("This analysis looks at groundwater quality and contamination risks in New Mexico. I used groundwater data from Alamogordo to compare uranium and arsenic concentrations across four well groups. I also used aquifer sensitivity data from the New Mexico Environment Department to look at how vulnerable different areas are to groundwater contamination.")
