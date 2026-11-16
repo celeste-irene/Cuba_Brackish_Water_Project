@@ -48,3 +48,5 @@ st.caption(
     "Funding and construction estimates come from "
     "different years. Expected revenue is not net profit."
 )
+# Save graph as a PNG file
+fig.write_image("Alara_Analysis/Economic_Feasibility_Graph.png")
