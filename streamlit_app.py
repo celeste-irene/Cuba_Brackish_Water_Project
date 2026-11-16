@@ -29,7 +29,7 @@ with tab2:
     st.write("The rate of which water leaves the aquifer.")
 
     st.subheader("Graph Analysis:")
-    st.write("There are external factors such as drought which disrupts the flow of water being supplied to a community. This can alter the balancw and cause more chemicals/saltwater to flow into fresher zones")
+    st.write("There are external factors such as drought which disrupts the flow of water being supplied to a community. This can alter the balance in the water and cause more chemicals/saltwater to flow into fresher zones. Water discharge from these areas deplete faster due to pumping/harvesting from human-made resopurces.This greatly contributes to the limited water supply in the Rio Puerco Aquifer")
 
 with tab3: 
     st.write("This analysis looks at groundwater quality and contamination risks in New Mexico. I used groundwater data from Alamogordo to compare uranium and arsenic concentrations across four well groups. I also used aquifer sensitivity data from the New Mexico Environment Department to look at how vulnerable different areas are to groundwater contamination.")
