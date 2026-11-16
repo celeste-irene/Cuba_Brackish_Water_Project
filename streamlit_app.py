@@ -82,7 +82,7 @@ with tab6:
     st.write("This proposed facility is projected to generate 518,00 gallons ot potable water per day, while harvesting important minerals from brackish water.")
 
     st.subheader("Economic Feasibility Graph")
-    st.image("Alara_Analysis/Economic_Feasibility_graph.png")
+    st.image("Alara_Analysis/Economic_Feasibility_Graph.png")
 
     st.write("This python graph analysis is displays the $11.7 million offered in government funding, $10 million estimated construction cost, and $13 million dollars of projected revenue.")
     st.write("This only shows the potential this facility has, and how it will benefit Cuba long term, considering they do not have the means to do it without government funding. Being able to simultaneously sell the high-grade fertilizer and provide residents with clean drinking water.")
