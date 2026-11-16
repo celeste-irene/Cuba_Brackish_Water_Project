@@ -60,11 +60,11 @@ with tab3:
     
 with tab4:
     st.write("This analysis looks at Total Dissolved Solids (TDS) in groundwater. TDS measures the amount of dissolved substances in water, including salts and minerals, and helps us understand groundwater salinity.")
-    st.write("The MATLAB analysis graphs groundwater TDS concentrations to show how salinity varies across samples.")
+    st.write("The analysis graphs groundwater TDS concentrations to show how salinity varies across samples.")
     st.write("Higher TDS concentrations indicate more dissolved substances in the water, which may affect how much treatment is needed before the water can be used.")
     st.header("TDS Groundwater Graph") 
     st.image("Malaika_Analysis/TDS_Groundwater_Graph.png")
-    st.write("The MATLAB analysis graphs groundwater TDS concentrations to show how salinity varies across samples.")
+    st.write("The analysis graphs groundwater TDS concentrations in four wells in Alamogordo to show how salinity varies across samples.")
 
     st.header(" Cuba's TDS Groundwater Graph")
     st.image("Malaika_Analysis/Cuba_TDS_Groundwater_Graph.png")
