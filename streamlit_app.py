@@ -3,7 +3,7 @@ import streamlit as st
 st.title("Team 6's Research and Solution")
 
 # Note the comma after tab1 — this unpacks the single-item list properly
-tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["Overview", "Aquifer", "Groundwater Quality", "Salinity", "Pumping", "Economic Feasibility", "Gantt Chart, Timelines, and Methodology"])
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Overview", "Aquifer", "Groundwater Quality", "Salinity", "Pumping", "Economic Feasibility" ])
 
 with tab1:
     st.header("Cuba, New Mexico is in a state of emergency due to dwindling water supplies. Fracking and tapping into the village aquifer, and the evaluation of the ecological effects of drilling into brackish water, are existential as it will decide the water future of the village of Cuba, New Mexico.")
@@ -12,13 +12,26 @@ with tab1:
     
     st.subheader("Conclusion")
     st.write("As Cuba, New Mexico begins to build its new water infrastructure, we need to highlight some problems that may arise to ensure that the village may finally resolve their water crisis. From the research, it is concluded that the water is fit for human consumption. Traces of dangerous elements such as arsenic and uranium is very low so the risk of contracting radiation poisoning and other harmful ailments is very low. However, because the groundwater in the Rio Puerco drainage basin is brackish, it is important that the energy infrastructure, the disposal infrastructure, and the governmental body that oversees this village project must already be built, running, and robust once the water treatment facility is online. As this project is multi-faceted, attempting to reignite the economic output of the village by building a science and technology business park in the village, the overall consumption of the village will likely increase. Therefore, the village must ensure that water allotments are to be forecasted to account for greater need in perpetuity to ensure that recharge is still enough to replenish its own groundwater supply but also ensure that it will not exacerbate problems further downstream in the broader Albuquerque metropolitan area.")
-    st.write("Group Members:")
+    st.write("Group Members and their Contributions :")
     st.markdown("""
-    - Celeste Bivens
-    - Ruben Cedric Romero (Prime Minister)
-    - Danielle Glikman
-    - Malaika Williams
-    - Alara Hart
+    - Celeste Bivens: Rio Puerco Aquifer Analysis
+    - Ruben Cedric Romero (Prime Minister): Effects of Pumping
+    - Danielle Glikman: Groundwater Quality and Chemical Composition
+    - Malaika Williams: Salinity Analysis
+    - Alara Hart: Economic Feasability 
+    """)
+
+    st.header("Gantt Chart")
+    st.image("Ruben Analysis/Screenshot 2026-11-17 155629.png")
+    st.header("Multi-Disciplinary Methodology")
+    st.write("Our research followed a multi-method approach where we looked at the physical, economic, and chemical factors of water availability in Cuba as a whole. Through multi-disciplinary approaches, all members contributed a different view to gather context. The process for our project is as follows:")
+    st.markdwon("""
+    - Research official sources and verify them (New Mexico Bureau of Geology and Resources, U.S. Geological Survey, New Mexico Water Data)
+    - Extract data as .csv files 
+    - Formulate MATLAB/Python scripts to clean and organize this data into visualizations
+    - Interpret graphs and expand on its context. 
+    - Synthesize and connect them back to project purpose. 
+    - Present results. 
     """)
     
 with tab2: 
@@ -93,10 +106,6 @@ with tab6:
 
     st.write("The proposed desalination facility could provide both economic and environmental benefits to Cuba, New Mexico. Economically, the facility could create local jobs and generate revenue through fertilizer and surplus water sales.")
     
-with tab7: 
-    st.header("Gantt Chart")
-    st.header("Process")
-    st.header("Methodology")
 
 
     
