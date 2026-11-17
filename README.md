@@ -1,7 +1,9 @@
 ## Team 6's Project is on Brackish water
 
 Crux: 
-Cuba, New Mexico is in a state of emergency due to dwindling water supplies. Fracking and tapping into the village aquifer and the evaluation of the ecological effects of drilling into brackish water is existential as it will decide the water future of the village of Cuba, New Mexico. 
+Cuba, New Mexico is in a state of emergency due to dwindling water supplies. Fracking and tapping into the village aquifer and the evaluation of the ecological effects of drilling into brackish water is existential as it will decide the water future of the village of Cuba, New Mexico.
+
+Streamlit Dashboard Link: https://cubabrackishwaterproject-pvojlla42aiysxgrzzoazv.streamlit.app/ 
 
 Expected Contributions:
 1. Alara Hart: Economic Feasibility and the Current Status of Cuba, New Mexico’s Water Usage
