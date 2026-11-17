@@ -9,7 +9,7 @@ Expected Contributions:
 1. Alara Hart: Economic Feasibility and the Current Status of Cuba, New Mexico’s Water Usage
 2. Danielle Glikman: Pollution and Depletion of the Water Systems as a Result of Treatment and Fracking 
 3. Prime Minister - Ruben Cedric Romero: The Effects of Pumping
-4. Celeste Bivens: A General Overview of Cuba, New Mexico’s Aquifer and of Similar Aquifers and Reservoirs Across the State
+4. Celeste Bivens: A General Overview of Cuba, New Mexico’s Aquifer, the Rio Puerco Aquifer
 5. Malaika Williams: Understand the Salinity of Brackish Water
 
 Abstract:
