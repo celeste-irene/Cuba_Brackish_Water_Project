@@ -25,7 +25,7 @@ with tab1:
     st.image("Ruben Analysis/Screenshot 2026-11-17 155629.png")
     st.header("Multi-Disciplinary Methodology")
     st.write("Our research followed a multi-method approach where we looked at the physical, economic, and chemical factors of water availability in Cuba as a whole. Through multi-disciplinary approaches, all members contributed a different view to gather context. The process for our project is as follows:")
-    st.markdwon("""
+    st.markdown("""
     - Research official sources and verify them (New Mexico Bureau of Geology and Resources, U.S. Geological Survey, New Mexico Water Data)
     - Extract data as .csv files 
     - Formulate MATLAB/Python scripts to clean and organize this data into visualizations
