@@ -3,7 +3,7 @@ import streamlit as st
 st.title("Team 6's Research and Solution")
 
 # Note the comma after tab1 — this unpacks the single-item list properly
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Overview", "Rio Puerco Analysis", "Groundwater Quality", "Brackish Water Salinity", "Pumping", "Economic Feasibility"])
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["Overview", "Rio Puerco Analysis", "Groundwater Quality", "Brackish Water Salinity", "Pumping", "Economic Feasibility", "Gantt Chart, Timelines, and Methodology"])
 
 with tab1:
     st.header("Cuba, New Mexico is in a state of emergency due to dwindling water supplies. Fracking and tapping into the village aquifer, and the evaluation of the ecological effects of drilling into brackish water, are existential as it will decide the water future of the village of Cuba, New Mexico.")
@@ -93,7 +93,10 @@ with tab6:
 
     st.write("The proposed desalination facility could provide both economic and environmental benefits to Cuba, New Mexico. Economically, the facility could create local jobs and generate revenue through fertilizer and surplus water sales.")
     
-    
+with tab7: 
+    st.header("Gantt Chart")
+    st.header("Process")
+    st.header("Methodology")
 
 
     
